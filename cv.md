@@ -1,8 +1,38 @@
-# Kanstantin Loika
+# Kanstantsin Loika
 ---
 ## My contact info:
+* __Location: Grodno, Belarus__
 * __Phone: +375-33-383-43-52__
 * __Mail: kostik.loyko@mail.ru__
 * __GitHab: https://github.com/kostik-loyko__
 * __Fasebook: https://www.facebook.com/kostya.loyko__
 * __LinkedIn: https://www.linkedin.com/in/loika-kanstansin-a57518231__
+---
+## About Me:
+I am 30 years old, I work as a doctor in a clinic. I like the little house near the lake. I would like to live there in my old age. But I can't make enough money to buy it. This is why I want to stop being a doctor and become a programmer.
+* #### My strengths:
+   * __Responsible__
+   * __Hardworking__
+   * __Purposeful__
+---
+## Skills:
+* __HTML5__
+* __CSS3 (SASS/SCSS, BEM, Adaptive layout)__
+* __JavaScript (ES6+, DOM,)__
+* __Git/GitHub__
+* __Figma, Photosho, VS Code__
+---
+## Code Examples
+```
+function sum(a, b) {
+  return a + b;
+}
+let result = sum(1, 2);
+alert( result );
+```
+---
+## Experience:
+---
+## Education
+* [Python programming course Stepik.org](https://stepik.org/cert/931800)
+* [HTML Academy](https://htmlacademy.ru/)
