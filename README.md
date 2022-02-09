@@ -1,1 +1,1 @@
-# rsschool-cv
+https://kostik-loyko.github.io/rsschool-cv/cv
