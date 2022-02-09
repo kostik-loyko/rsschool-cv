@@ -31,8 +31,13 @@ let result = sum(1, 2);
 alert( result );
 ```
 ---
-## Experience:
----
 ## Education
 * [Python programming course Stepik.org](https://stepik.org/cert/931800)
 * [HTML Academy](https://htmlacademy.ru/)
+---
+## Experience:
+* __Educational projects (landing page) https://github.com/kostik-loyko__
+---
+## Languages:
+* __Russian__ - native speaker.
+* __English__ - A2
