@@ -321,14 +321,10 @@ a {
          margin: 0;
       }
 }
-.description {
-}
 .skill {
    padding-top: 55px;
 	margin-top: -55px;
 	background-clip: content-box;
-		&__list {
-		}
 		&__item {
          position: relative;
          padding-left: 25px;
@@ -367,9 +363,6 @@ code {
    @media (max-width: 768px) {
       margin-top: 63px;
    }
-		&__list {
-		}
-
 		&__item {
          position: relative;
          padding-left: 25px;
@@ -439,12 +432,6 @@ code {
                transform: scale(1.2);
             }
          }
-         & span {
-
-         }
-		}
-
-		&__imge {
 		}
 }
 .education {
@@ -473,8 +460,6 @@ code {
    padding-top: 55px;
 	margin-top: -55px;
 	background-clip: content-box;
-		&__list {
-		}
 
 		&__item {
          position: relative;
@@ -511,8 +496,6 @@ code {
    align-items: center;
    gap: 20px;
    color: #fff;
-		&__description {
-		}
 
 		&__link {
          color: inherit;
